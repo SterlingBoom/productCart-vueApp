@@ -1,4 +1,4 @@
-# vue-cart
+# Vue Firebase Product Rendering Application
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+### Features
+This is a Vue.js application that utilizes Firebase Authentication to grant access and render products. It provides a seamless and secure user authentication process, allowing users to access and interact with the product rendering functionality. Features User Authentication: The application integrates Firebase Authentication, enabling users to create accounts, log in, and manage their authentication state securely. Product Rendering: Once authenticated, users can access the product rendering feature, which displays a collection of products.
